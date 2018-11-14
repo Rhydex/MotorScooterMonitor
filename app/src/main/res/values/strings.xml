@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Motor Scooter Monitor</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="userNameHint">Enter User Name</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_newUser">New User</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888056513987",
+    "firebase_url": "https://motor-scooter-monitor.firebaseio.com",
+    "project_id": "motor-scooter-monitor",
+    "storage_bucket": "motor-scooter-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888056513987:android:d35cd03c62dcb0ae",
+        "android_client_info": {
+          "package_name": "edu.uco.rneal11.motorscootermonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888056513987-t3a7g3q0o6rhpe02c5o65gosrpg0vmcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uco.rneal11.motorscootermonitor",
+            "certificate_hash": "6ff3a4cb01ba283960bc74df41bdf907450c4b26"
+          }
+        },
+        {
+          "client_id": "888056513987-dh6jbdes9s0q9icikp2dsfj4qs92gttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMaJQgR8YQ9XmhcF0ZEKyTktcDyHBTetE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888056513987-dh6jbdes9s0q9icikp2dsfj4qs92gttp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
